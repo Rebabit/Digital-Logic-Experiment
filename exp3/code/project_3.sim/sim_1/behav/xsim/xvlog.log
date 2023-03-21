@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/CS/CS/vivado/project_3/project_3.srcs/sources_1/new/machine.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module machine
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/CS/CS/vivado/project_3/project_3.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench

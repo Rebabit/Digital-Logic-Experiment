@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sat May 14 14:36:29 2022
+# Process ID: 28196
+# Current directory: F:/CS/CS/vivado/exp_2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent24012 F:\cs\CS\vivado\exp_2\exp_2.xpr
+# Log file: F:/CS/CS/vivado/exp_2/vivado.log
+# Journal file: F:/CS/CS/vivado/exp_2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project F:/cs/CS/vivado/exp_2/exp_2.xpr
+update_compile_order -fileset sources_1

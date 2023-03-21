@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sat May 14 14:41:46 2022
+# Process ID: 14564
+# Current directory: F:/CS/大二下/数字逻辑/实验/exp2/1120202004+邓雅萱/1120202004+邓雅萱
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent26292 F:\cs\大二下\数字逻辑\实验\exp2\1120202004+邓雅萱\1120202004+邓雅萱\exp_2.xpr
+# Log file: F:/CS/大二下/数字逻辑/实验/exp2/1120202004+邓雅萱/1120202004+邓雅萱/vivado.log
+# Journal file: F:/CS/大二下/数字逻辑/实验/exp2/1120202004+邓雅萱/1120202004+邓雅萱\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project F:/cs/大二下/数字逻辑/实验/exp2/1120202004+邓雅萱/1120202004+邓雅萱/exp_2.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config F:/cs/大二下/数字逻辑/实验/exp2/1120202004+邓雅萱/1120202004+邓雅萱/testbench_behav.wcfg
+source testbench.tcl
+close_sim
